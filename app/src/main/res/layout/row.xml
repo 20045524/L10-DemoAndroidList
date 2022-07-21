@@ -9,6 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Medium Text"
+        android:textColor="@color/purple_200"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"/>
 
     <TextView
@@ -16,4 +17,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="TextView" />
+
 </LinearLayout>
+
+
